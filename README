@@ -2,12 +2,3 @@ bunsen-exit
 ===========
 
 bunsen-exit: Logout dialog box with various options, using yad as GUI.
-
----
-
-NOTE: this package used python2 and GTK2 and is no longer built:
-
-bunsen-exit-python: Python script providing the same functionality,
-but with a more attractive GUI, and more configurability.
-
-Both packages provided the bl-exit command, and could not be installed together.
