@@ -1,3 +1,11 @@
+bunsen-exit (13.2-1) carbon; urgency=medium
+
+  * Allow sysadmin to enable "Hibernate", "Hybrid Sleep"
+     or "Suspend then Hibernate" dialogue buttons,
+     by editing /etc/bl-exit/bl-exit.conf.
+
+ -- John Crawley <john@bunsenlabs.org>  Thu, 27 Jun 2024 20:38:39 +0900
+
 bunsen-exit (13.1-1) carbon; urgency=medium
 
   * Remove files used by obsolete package bunsen-exit-python.
