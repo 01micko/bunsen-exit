@@ -1,3 +1,11 @@
+bunsen-exit (12.2-1) boron; urgency=medium
+
+  * Allow sysadmin to enable "Hibernate", "Hybrid Sleep"
+     or "Suspend then Hibernate" dialogue buttons,
+     by editing /etc/bl-exit/bl-exit.conf.
+
+ -- John Crawley <john@bunsenlabs.org>  Thu, 27 Jun 2024 20:47:37 +0900
+
 bunsen-exit (12.1-1) boron; urgency=medium
 
   * Add .desktop file for auto-generated menus.
